@@ -22,4 +22,4 @@
  -set write and read to true<br>
  -copy database ref link<br>
  -open main.js<br>
- -change "Vue.http.options.root = 'YOUR-FIREBASE-REF-LINK'" to your link
+ -change 'Vue.http.options.root = 'YOUR-FIREBASE-REF-LINK'' to your link
